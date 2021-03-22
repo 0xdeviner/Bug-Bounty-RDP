@@ -1,1 +1,1 @@
-# Bug-Bounty-RDP
+# Bug-Bounty-RDP - A Collection of Responsible Disclosure Programs
